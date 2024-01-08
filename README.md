@@ -4,7 +4,8 @@
 
 ### Study 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"/></a> <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=@realchainjul&show_icons=true&theme=radical)
+<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realchainjul&theme=dark&show_icons=true)
 <!---
 realchainjul/realchainjul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
