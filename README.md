@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @realchainjul👋
-<a href="https://computerstory.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-F36D5D?style=flat-square&logo=Blog&logoColor=FFFFFF"/></a>
+<a href="https://computerstory.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-F36D5D?style=flat-square&logo=tistory&logoColor=FFFFFF"/></a>
 
 ### Study 
 <!---
