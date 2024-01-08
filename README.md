@@ -2,7 +2,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/realchainjul@kakao.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 ### 👋 Hi, I’m @realchainjul👋
 
-### Study 
+### :blue_book: Study :blue_book: 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=FFFFFF"/></a>
 <br/>
